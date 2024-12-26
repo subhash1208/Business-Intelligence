@@ -1,6 +1,4 @@
-Here's the updated and detailed `README.md` for your Power BI projects repository:
 
----
 
 # Business Intelligence Projects Repository
 
