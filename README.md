@@ -1,5 +1,3 @@
-
-
 # Business Intelligence Projects Repository
 
 This repository contains a collection of Power BI projects showcasing comprehensive data analysis and interactive dashboards. Each project is designed to provide actionable insights, with end-to-end processes from data acquisition to deployment.
@@ -16,8 +14,13 @@ BI/
 ├── Project 2: Netflix-Content-Analysis (PowerBI)/
 │   ├── Power BI file, dataset, and assets
 │   ├── README.md (Detailed documentation for the project)
-└── README.md (This file)
+├── Project 3: Netflix-Prime-Hotstar-Dashboard (PowerBI)/
+│   ├── Power BI file, datasets, images, and assets
+│   ├── README.md (Detailed documentation for the project)
+└── README.md (Detailed documentation for the project)
 ```
+
+**Note**: Project 3, Netflix-Prime-Hotstar-Dashboard, is the newly added project.
 
 As new projects are added, they will follow a similar structure.
 
@@ -47,6 +50,19 @@ As new projects are added, they will follow a similar structure.
      - `.pbix` file with visualizations and insights.
      - Excel dataset containing Netflix data.
      - Supporting images and PowerPoint backgrounds.
+   - **Technologies**: Power BI, DAX.
+
+### 3. **Netflix, Prime, and Hotstar Dashboard**
+   - **Objective**: Provide a comparative analysis of Netflix, Amazon Prime Video, and Disney+ Hotstar content libraries.
+   - **Key Features**:
+     - Genre and language distribution across platforms.
+     - Comparative time-series analysis of content additions.
+     - Visual storytelling with high-quality images and icons.
+   - **Files Included**:
+     - `.pbix` file for the OTT dashboard.
+     - Datasets for Netflix, Amazon Prime, and Disney+ Hotstar.
+     - High-resolution images and visual assets.
+     - PDF version of the dashboard for reference.
    - **Technologies**: Power BI, DAX.
 
 ---
@@ -124,4 +140,3 @@ Contributions are welcome! To contribute:
 3. Submit a pull request for review.
 
 ---
-
